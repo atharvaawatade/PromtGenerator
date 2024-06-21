@@ -1,0 +1,6 @@
+streamlit
+pandas
+spacy
+pytesseract
+Pillow
+pymongo
